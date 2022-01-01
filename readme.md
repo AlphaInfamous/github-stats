@@ -1,8 +1,8 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/Alphahazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
- <p align="center">Authored by <a href="https://github.com/Alphahazra/github-readme-stats">Alpha Hazra</a>
+ <p align="center">Authored by <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
  </p>
 </p>
   <p align="center">
@@ -13,10 +13,10 @@
       <img src="https://www.codefactor.io/repository/github/alphainfamous/github-stats/badge" />
     </a>
     <a href="https://github.com/AlphaInfamous/github-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Alphahazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/AlphaInfamous/github-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Alphahazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
   </p>
@@ -126,7 +126,7 @@ Use `&theme=THEME_NAME` parameter like so :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/Alphahazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
 
@@ -212,19 +212,19 @@ Yay! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=Alphahazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=Alphahazra&repo=github-readme-stats)](https://github.com/AlphaInfamous/github-stats)
+[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=Alphahazra&repo=github-readme-stats)](https://github.com/AlphaInfamous/github-stats)
+[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/AlphaInfamous/github-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=Alphahazra&repo=github-readme-stats&show_owner=true)](https://github.com/AlphaInfamous/github-stats)
+[![Readme Card](https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/AlphaInfamous/github-stats)
 
 # Top Languages Card
 
@@ -236,10 +236,10 @@ _NOTE: Top Languages does not indicate my skill level or anything like that, it'
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/top-langs?username=Alphahazra`
+Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=Alphahazra)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Exclude individual repositories
@@ -247,7 +247,7 @@ Endpoint: `api/top-langs?username=Alphahazra`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=Alphahazra&exclude_repo=github-readme-stats,Alphahazra.github.io)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Hide individual languages
@@ -255,7 +255,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=Alphahazra&hide=javascript,html)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Show more languages
@@ -263,7 +263,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=Alphahazra&langs_count=8)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Compact Language Card Layout
@@ -271,16 +271,16 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous&layout=compact)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaInfamous/github-stats)
 
 - Compact layout
 
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous&layout=compact)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlphaInfamous/github-stats)
 
 # Wakatime Week Stats
 
@@ -306,53 +306,53 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous)
 
 - Hiding specific stats
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&hide=contribs,issues)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&hide=contribs,issues)
 
 - Showing icons
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&hide=issues&show_icons=true)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&hide=issues&show_icons=true)
 
 - Customize Border Color
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&border_color=2e4058)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&border_color=2e4058)
 
 - Include All Commits
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&include_all_commits=true)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&include_all_commits=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&show_icons=true&theme=radical)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&show_icons=true&theme=radical)
 
 - Gradient
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=Alphahazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=Alphahazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=alphainfamous&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Setting card locale
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=Alphahazra&locale=es)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=alphainfamous&locale=es)
 
 - Customizing repo card
 
-![Customized Card](https://github-stats-alpha-one.vercel.app/api/pin?username=Alphahazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-stats-alpha-one.vercel.app/api/pin?username=alphainfamous&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=Alphahazra)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaInfamous/github-stats)
 
 - Wakatime card
 
-[![willianrod's wakatime stats](https://github-stats-alpha-one.vercel.app/api/wakatime?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
+[![Alpha's wakatime stats](https://github-stats-alpha-one.vercel.app/api/wakatime?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
 
 ---
 
@@ -362,10 +362,10 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 ```html
 <a href="https://github.com/AlphaInfamous/github-stats">
-  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=Alphahazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=alphainfamous&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Alphahazra/convoychat">
-  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=Alphahazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 ```
 
