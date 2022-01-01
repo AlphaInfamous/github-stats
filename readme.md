@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="CodeQL" src="[![CodeQL](https://github.com/AlphaInfamous/github-stats/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/AlphaInfamous/github-stats/actions/workflows/codeql-analysis.yml)" />
+      <img alt="CodeQL" src="https://github.com/AlphaInfamous/github-stats/actions/workflows/codeql-analysis.yml/badge.svg?branch=master" />
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
