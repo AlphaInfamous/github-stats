@@ -271,16 +271,16 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous&layout=compact)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlphaInfamous/github-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaInfamous/github-stats)
 
 - Compact layout
 
-[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=alphainfamous&layout=compact)](https://github.com/AlphaInfamous/github-stats)
+[![Top Langs](https://github-stats-alpha-one.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlphaInfamous/github-stats)
 
 # Wakatime Week Stats
 
