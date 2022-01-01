@@ -7,8 +7,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="CodeQL" src="https://github.com/AlphaInfamous/github-stats/actions/workflows/codeql-analysis.yml/badge.svg?branch=master" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://www.codefactor.io/repository/github/alphainfamous/github-stats">
+      <img src="https://www.codefactor.io/repository/github/alphainfamous/github-stats/badge" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
