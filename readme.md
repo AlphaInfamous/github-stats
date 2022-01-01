@@ -306,45 +306,45 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous)
 
 - Hiding specific stats
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&hide=contribs,issues)
 
 - Showing icons
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&hide=issues&show_icons=true)
 
 - Customize Border Color
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&border_color=2e4058)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&border_color=2e4058)
 
 - Include All Commits
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&include_all_commits=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&show_icons=true&theme=radical)
 
 - Gradient
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api?username=alphainfamous&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=alphainfamous&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Setting card locale
 
-![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=anuraghazra&locale=es)
+![Alpha's GitHub stats](https://github-stats-alpha-one.vercel.app/api/?username=alphainfamous&locale=es)
 
 - Customizing repo card
 
-![Customized Card](https://github-stats-alpha-one.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-stats-alpha-one.vercel.app/api/pin?username=alphainfamous&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
@@ -352,7 +352,7 @@ Choose from any of the [default themes](#themes)
 
 - Wakatime card
 
-[![willianrod's wakatime stats](https://github-stats-alpha-one.vercel.app/api/wakatime?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
+[![Alpha's wakatime stats](https://github-stats-alpha-one.vercel.app/api/wakatime?username=alphainfamous)](https://github.com/AlphaInfamous/github-stats)
 
 ---
 
@@ -362,7 +362,7 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 ```html
 <a href="https://github.com/AlphaInfamous/github-stats">
-  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=alphainfamous&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-stats-alpha-one.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
