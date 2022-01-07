@@ -15,10 +15,10 @@
         <a href="https://github.com/AlphaInfamous/github-stats/actions/workflows/test.yml">
       <img alt="Tests" src="https://github.com/AlphaInfamous/github-stats/actions/workflows/test.yml/badge.svg" />
     </a>
-    <a href="https://github.com/AlphaInfamous/github-stats/issues">
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/AlphaInfamous/github-stats/pulls">
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
